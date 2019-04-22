@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">movieDB</string>
+    <string name="title_list">List</string>
+    <string name="title_favorites">Favorites</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_picture_movie">picture movie</string>
+    <string name="moviename">MovieName</string>
+    <string name="votos">Votos</string>
+    <string name="API_KEY">a888c998206159fa05c2d738369c5041</string>
+</resources>
